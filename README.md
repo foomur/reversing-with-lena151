@@ -1,8 +1,6 @@
-# reverse-engineering-tutorials
-Reverse Engineering Tutorials
+# Reversing With Lena151
+Reverse Engineering Tutorials from Tuts4you
 
-Run everything on a virtual machine at your OWN Risk. 
+Use a Windows XP SP3 isolated VM with Ollydbg installed.
 
-Shared for educational purposes only.
-
-Source: https://tuts4you.com/e107_plugins/download/download.php?list.17
+https://tuts4you.com/e107_plugins/download/download.php?list.17
